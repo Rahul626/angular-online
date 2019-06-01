@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 @Component({
-    selector: 'message',
+    selector: 'my-app',
     template: `<h2>this is a example text</h2>
 `
 })
